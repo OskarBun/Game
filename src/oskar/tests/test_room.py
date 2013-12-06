@@ -8,6 +8,7 @@ from oskar.room import Room
 
 
 class Test(unittest.TestCase):
+    """A simple test of rooms and doors"""
 
 
     def setUp(self):
